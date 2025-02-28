@@ -1,0 +1,23 @@
+1. Abrir el programa
+El usuario inicia el programa.
+
+2. Ingresar datos personales
+Solicitar al usuario que ingrese su nombre.
+
+3. Solicitar que ingrese su edad.
+Confirmar estado civil
+
+4. Preguntar al usuario si está casado/a (respuesta: Sí/No).
+Si la respuesta es "Sí", solicitar que ingrese la edad de su esposo/a.
+
+5. Confirmar si tiene hijos
+Preguntar si el usuario tiene hijos (respuesta: Sí/No).
+Si la respuesta es "Sí", solicitar que ingrese la cantidad de hijos.
+
+6. Generar cotización
+El programa calcula y muestra la cotización basada en los datos ingresados.
+
+7. Decidir próxima acción
+Preguntar al usuario si desea realizar otra cotización o si desea salir del programa.
+
+8. Si elige "Salir", el programa finaliza.

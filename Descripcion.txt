@@ -1,0 +1,1 @@
+El programa permitirá realizar múltiples consultas sin necesidad de abrirlo cada vez que se quiera utilizar. Esto contribuirá a crear un entorno empresarial más eficiente al facilitar la elaboración de cotizaciones.
